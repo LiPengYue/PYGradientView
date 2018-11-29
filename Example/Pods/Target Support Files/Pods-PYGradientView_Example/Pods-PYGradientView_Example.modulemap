@@ -1,0 +1,6 @@
+framework module Pods_PYGradientView_Example {
+  umbrella header "Pods-PYGradientView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
